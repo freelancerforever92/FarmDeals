@@ -20,7 +20,7 @@
 		</a>
       </li>
       <li class="nav-item">
-      	<a class="nav-link" href="signupOrLoginAction">Sign In</a>
+      	<a class="nav-link" href="signupOrLoginAction">User Sign In</a>
       </li>
       <li class="nav-item dropdown">
        <img src="resource/image/default-user.png" width="35" height="35" alt="" class="default-user">
