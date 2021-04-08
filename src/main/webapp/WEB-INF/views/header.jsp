@@ -16,7 +16,7 @@
       <li class="nav-item">
        	<a class="nav-link" href="javascript: void(0)">
 			<img src="resource/image/phone.png" width="14" alt="phone" > 
-			<img src="resource/image/whatsapp.png" width="20"> +91 	70320 66660
+			<img src="resource/image/whatsapp.png" width="20"> +91 1234567890
 		</a>
       </li>
       <li class="nav-item">
